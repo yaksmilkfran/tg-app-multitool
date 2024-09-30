@@ -1,4 +1,4 @@
-# TG-App-MultiTool
+# TG App MultiTool
 
 ## Download the latest version of the app
 [![Download](https://img.shields.io/badge/Download-Latest%20Version-brightgreen?style=for-the-badge)](https://github.com/yaksmilkfran/tg-app-multitool/releases/tag/v1.0.2)
