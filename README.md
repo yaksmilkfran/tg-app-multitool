@@ -4,9 +4,11 @@ This is a beta version of the program.
 
 Functional:
 
-Connecting multiple accounts (100).
-Selection of the necessary game in which the auto-collection of the reward will take place.
-Output statistics for all connected accounts in a separate txt file, or through a bot in Telegram.
+*Connecting multiple accounts (100).
+
+*Selection of the necessary game in which the auto-collection of the reward will take place.
+
+*Output statistics for all connected accounts in a separate txt file, or through a bot in Telegram.
 
 The program automatically plays games such as Blum, Cats, Moonbeam, OKX Racer, VanaData Hero, Card Banana, Genopets, Kucoin Frog. All actions are as randomized as possible, and repeat the patterns of a real person.
 Your accounts are completely safe, you only need the key to the game itself to connect. It is not possible to log into the telegram account using this key.
